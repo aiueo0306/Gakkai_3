@@ -34,7 +34,7 @@ def generate_rss(items, output_path):
 
 def extract_items(page):
 
-    page.wait_for_selector("div.box_news div.news_title, timeout=10000) 
+    page.wait_for_selector("div.box_news div.news_title", timeout=10000) 
     
     selector = "div.box_news div.news_title"
     blocks = page.locator(selector)
