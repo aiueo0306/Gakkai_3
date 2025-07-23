@@ -6,13 +6,12 @@ import re
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
 BASE_URL = "https://jes-jp.org/"
-DEFAULT_LINK = "https://jes-jp.org/"
 GAKKAI = "日本てんかん学会"
 
 def generate_rss(items, output_path):
     fg = FeedGenerator()
     fg.title(f"{GAKKAI}トピックス")
-    fg.link(href=DEFAULT_LINK)
+    fg.link(href=BASE_URL)
     fg.description(f"{GAKKAI}の最新トピック情報")
     fg.language("ja")
     fg.generator("python-feedgen")
@@ -51,17 +50,14 @@ def extract_items(page):
             # 🕒 日付を現在時刻に固定
             pub_date = datetime.now(timezone.utc)
 
-            try:
-                title = block.locator("a").first.inner_text().strip()
-            except:
-                title = "無題"
+            title = block.locator("a").first.inner_text().strip()
                 
             try:
                 href = block.locator("a").first.get_attribute("href")
                 full_link = urljoin(BASE_URL, href)
             except:
                 href = ""
-                full_link = DEFAULT_LINK
+                full_link = BASE_URL
 
             if not title or not href:
                 print(f"⚠ 必須フィールドが欠落したためスキップ（{i+1}行目）: title='{title}', href='{href}'")
@@ -89,7 +85,7 @@ with sync_playwright() as p:
 
     try:
         print("▶ ページにアクセス中...")
-        page.goto(DEFAULT_LINK, timeout=30000)
+        page.goto(BASE_URL, timeout=30000)
         page.wait_for_load_state("load", timeout=30000)
     except PlaywrightTimeoutError:
         print("⚠ ページの読み込みに失敗しました。")
