@@ -36,7 +36,7 @@ def extract_items(page):
 
     page.wait_for_selector("td.px14 a", timeout=10000) 
     
-    selector = "tbody a"
+    selector = "td.px14 a"
     blocks = page.locator(selector)
     count = blocks.count()
     print(f"📦 発見した記事数: {count}")
