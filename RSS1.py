@@ -47,7 +47,7 @@ def extract_items(page):
         try:
             block = blocks.nth(i)
 
-            print(block)
+            print(f"中身{block}")
             
             # 🕒 日付を現在時刻に固定
             pub_date = datetime.now(timezone.utc)
