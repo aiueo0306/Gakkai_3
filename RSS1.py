@@ -52,9 +52,14 @@ def extract_items(page):
             pub_date = datetime.now(timezone.utc)
 
             # 🏷 タイトル
-            title = block.locator("a").first.inner_text().strip()
-            # 🔗 リンク（<p>内のaタグのhref）
             
+            # 🔗 リンク（<p>内のaタグのhref）
+
+            try:
+                title = block.locator("a").first.inner_text().strip()
+            except:
+                title = "無題"
+                
             try:
                 href = block.locator("a").first.get_attribute("href")
                 full_link = urljoin(BASE_URL, href)
