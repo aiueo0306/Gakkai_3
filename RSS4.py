@@ -34,9 +34,9 @@ def generate_rss(items, output_path):
 
 def extract_items(page):
 
-    page.wait_for_selector("body > p > table:nth-child(1) > tbody > tr > td a", timeout=10000) 
+    page.wait_for_selector("body > p > table:nth-child(1) > tbody > tr > td > a:nth-child(3)", timeout=10000) 
     
-    selector = "body > p > table:nth-child(1) > tbody > tr > td a"
+    selector = "body > p > table:nth-child(1) > tbody > tr > td > a:nth-child(3)"
     blocks = page.locator(selector)
     count = blocks.count()
     print(f"📦 発見した記事数: {count}")
