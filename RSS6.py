@@ -36,12 +36,16 @@ def extract_items(page):
 
     page.wait_for_selector("section.sec-news div.news_body", timeout=10000) 
     
-    selector = "div.newsList"
+    selector = "section.sec-news div.news_body"
     blocks = page.locator(selector)
     count = blocks.count()
+    
     print(f"📦 発見した記事数: {count}")
     items = []
 
+    selector = "div.newsList"
+    blocks = page.locator(selector)
+    
     max_items = 10
     for i in range(min(count, max_items)):
         try:
