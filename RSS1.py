@@ -6,12 +6,13 @@ import re
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
 BASE_URL = "https://jes-jp.org/"
+DEFAULT_LINK = "https://jes-jp.org/"
 GAKKAI = "日本てんかん学会"
 
 def generate_rss(items, output_path):
     fg = FeedGenerator()
     fg.title(f"{GAKKAI}トピックス")
-    fg.link(href=BASE_URL)
+    fg.link(href=DEFAULT_LINK)
     fg.description(f"{GAKKAI}の最新トピック情報")
     fg.language("ja")
     fg.generator("python-feedgen")
@@ -47,8 +48,6 @@ def extract_items(page):
         try:
             block = blocks.nth(i)
 
-            print(f"中身{block}")
-            
             # 🕒 日付を現在時刻に固定
             pub_date = datetime.now(timezone.utc)
 
@@ -61,7 +60,7 @@ def extract_items(page):
                 full_link = urljoin(BASE_URL, href)
             except:
                 href = ""
-                full_link = BASE_URL
+                full_link = DEFAULT_LINK
             
             items.append({
                 "title": title,
@@ -85,7 +84,7 @@ with sync_playwright() as p:
 
     try:
         print("▶ ページにアクセス中...")
-        page.goto(BASE_URL, timeout=30000)
+        page.goto(DEFAULT_LINK, timeout=30000)
         page.wait_for_load_state("load", timeout=30000)
     except PlaywrightTimeoutError:
         print("⚠ ページの読み込みに失敗しました。")
@@ -98,6 +97,6 @@ with sync_playwright() as p:
     if not items:
         print("⚠ 抽出できた記事がありません。HTML構造が変わっている可能性があります。")
 
-    rss_path = "rss_output/Feed1.xml"
+    rss_path = "rss_output/Feed18.xml"
     generate_rss(items, rss_path)
     browser.close()
