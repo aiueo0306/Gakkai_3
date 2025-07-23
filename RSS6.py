@@ -42,9 +42,6 @@ def extract_items(page):
     
     print(f"📦 発見した記事数: {count}")
     items = []
-
-    selector = "div.newsList"
-    blocks = page.locator(selector)
     
     max_items = 10
     for i in range(min(count, max_items)):
@@ -55,7 +52,9 @@ def extract_items(page):
             pub_date = datetime.now(timezone.utc)
 
             title = block.locator("h3").first.inner_text().strip()
-                
+
+            print(title)
+            
             try:
                 href = block.locator("a").first.get_attribute("href")
                 full_link = urljoin(BASE_URL, href)
