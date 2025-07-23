@@ -51,10 +51,6 @@ def extract_items(page):
             # 🕒 日付を現在時刻に固定
             pub_date = datetime.now(timezone.utc)
 
-            # 🏷 タイトル
-            
-            # 🔗 リンク（<p>内のaタグのhref）
-
             try:
                 title = block.locator("a").first.inner_text().strip()
             except:
@@ -66,6 +62,10 @@ def extract_items(page):
             except:
                 href = ""
                 full_link = DEFAULT_LINK
+
+            if not title or not href:
+                print(f"⚠ 必須フィールドが欠落したためスキップ（{i+1}行目）: title='{title}', href='{href}'")
+                continue
             
             items.append({
                 "title": title,
@@ -77,7 +77,7 @@ def extract_items(page):
         except Exception as e:
             print(f"⚠ 行{i+1}の解析に失敗: {e}")
             continue
-
+            
     return items
 
 # ===== 実行ブロック =====
