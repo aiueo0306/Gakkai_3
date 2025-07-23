@@ -5,16 +5,14 @@ import os
 import re
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
-# === 学会情報 ===
-BASE_URL = "https://jasweb.or.jp/"
-DEFAULT_LINK = "https://jasweb.or.jp/"
-ORG_NAME = "日本喘息学会"
+BASE_URL = "https://www.tando.gr.jp/info_syuuchiirai/"
+GAKKAI = "日本胆道学会（周知）"
 
 def generate_rss(items, output_path):
     fg = FeedGenerator()
-    fg.title(f"{ORG_NAME}トピックス")
-    fg.link(href=DEFAULT_LINK)
-    fg.description(f"{ORG_NAME}の最新トピック情報")
+    fg.title(f"{GAKKAI}トピックス")
+    fg.link(href=BASE_URL)
+    fg.description(f"{GAKKAI}の最新トピック情報")
     fg.language("ja")
     fg.generator("python-feedgen")
     fg.docs("http://www.rssboard.org/rss-specification")
@@ -35,28 +33,36 @@ def generate_rss(items, output_path):
 
 
 def extract_items(page):
-    dt_elements = page.locator("dt")
-    count = dt_elements.count()
+
+    page.wait_for_selector("ul.info-list.green li", timeout=10000) 
+    
+    selector = "ul.info-list.green li"
+    blocks = page.locator(selector)
+    count = blocks.count()
     print(f"📦 発見した記事数: {count}")
     items = []
 
-    for i in range(count):
+    max_items = 10
+    for i in range(min(count, max_items)):
         try:
-            dt = dt_elements.nth(i)
+            block = blocks.nth(i)
 
-            # 対応する dd（次の兄弟要素）
-            dd_handle = dt.evaluate_handle("el => el.nextElementSibling")
-            a_tag = dd_handle.query_selector("a")
-            if a_tag is None:
-                continue
-
-            title = a_tag.inner_text().strip()
-            href = a_tag.get_attribute("href")
-            full_link = urljoin(BASE_URL, href)
-
-            # 📅 日付は使用せず、現在時刻を利用
+            # 🕒 日付を現在時刻に固定
             pub_date = datetime.now(timezone.utc)
 
+            title = block.locator("a").first.inner_text().strip()
+                
+            try:
+                href = block.locator("a").first.get_attribute("href")
+                full_link = urljoin(BASE_URL, href)
+            except:
+                href = ""
+                full_link = BASE_URL
+
+            if not title or not href:
+                print(f"⚠ 必須フィールドが欠落したためスキップ（{i+1}行目）: title='{title}', href='{href}'")
+                continue
+            
             items.append({
                 "title": title,
                 "link": full_link,
@@ -67,7 +73,7 @@ def extract_items(page):
         except Exception as e:
             print(f"⚠ 行{i+1}の解析に失敗: {e}")
             continue
-
+            
     return items
 
 # ===== 実行ブロック =====
@@ -79,7 +85,7 @@ with sync_playwright() as p:
 
     try:
         print("▶ ページにアクセス中...")
-        page.goto(DEFAULT_LINK, timeout=30000)
+        page.goto(BASE_URL, timeout=30000)
         page.wait_for_load_state("load", timeout=30000)
     except PlaywrightTimeoutError:
         print("⚠ ページの読み込みに失敗しました。")
