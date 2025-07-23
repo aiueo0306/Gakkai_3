@@ -43,7 +43,7 @@ def extract_items(page):
     print(f"📦 発見した記事数: {count}")
     items = []
 
-    max_items = 10
+    max_items = 1
     for i in range(min(count, max_items)):
         try:
             block = blocks.nth(i)
@@ -56,7 +56,7 @@ def extract_items(page):
             # 🔗 リンク（<p>内のaタグのhref）
             
             try:
-                href = block.locator("a").first.get_attribute("href")
+                href = block.locator("font").first.get_attribute("href")
                 full_link = urljoin(BASE_URL, href)
             except:
                 href = ""
