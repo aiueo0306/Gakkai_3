@@ -53,7 +53,7 @@ def extract_items(page):
             title = block.inner_text().strip()
                 
             try:
-                href = block.locator("a").nth(1).get_attribute("href")
+                href = block.locator("a").first.get_attribute("href")
                 full_link = urljoin(BASE_URL, href)
             except:
                 href = ""
@@ -85,8 +85,8 @@ with sync_playwright() as p:
 
     try:
         print("▶ ページにアクセス中...")
-        page.goto(BASE_URL, timeout=30000)
-        page.wait_for_load_state("load", timeout=30000)
+        page.goto(BASE_URL, timeout=10000)
+        page.wait_for_load_state("load", timeout=3000)
     except PlaywrightTimeoutError:
         print("⚠ ページの読み込みに失敗しました。")
         browser.close()
