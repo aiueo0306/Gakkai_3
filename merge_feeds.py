@@ -24,4 +24,4 @@ for xml_file in glob('rss_output/*.xml'):
         fe.pubDate(entry.get("published", ""))
         fe.guid(entry.link + "#" + entry.get("published", "2025"))
 
-fg.rss_file('rss_output/combined.xml')
+fg.rss_file('rss_output/combined3.xml')
