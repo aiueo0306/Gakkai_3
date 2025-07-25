@@ -6,7 +6,7 @@ import re
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
 BASE_URL = "https://www.haigan.gr.jp/news/category/important/"
-GAKKAI = "日本肺癌学会(重要なお知らせ)"
+GAKKAI = "日本肺癌学会"
 
 def generate_rss(items, output_path):
     fg = FeedGenerator()
