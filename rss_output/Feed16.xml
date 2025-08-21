@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>日本耳科学会トピックス</title><link>https://www.otology.gr.jp/</link><description>日本耳科学会の最新トピック情報</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 21 Aug 2025 09:02:02 +0000</lastBuildDate><item><title>「第40回　耳の手術研修会」のご案内
-開催日時：【Webinar】6月23日～25日、【解剖実習/Live surgery】7月3日～4日
-詳細および申込みはこちらからお願いします。</title><link>https://www.otology.gr.jp/</link><description>「第40回　耳の手術研修会」のご案内
-開催日時：【Webinar】6月23日～25日、【解剖実習/Live surgery】7月3日～4日
-詳細および申込みはこちらからお願いします。</description><guid isPermaLink="false">https://www.otology.gr.jp/common/pdf/40th_SurgicalTraining.pdf#20250317</guid><pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate></item><item><title>「第2回Underwater TEES 講習会」のご案内
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>日本耳科学会トピックス</title><link>https://www.otology.gr.jp/</link><description>日本耳科学会の最新トピック情報</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 21 Aug 2025 10:02:19 +0000</lastBuildDate><item><title>「第2回Underwater TEES 講習会」のご案内
 開催日時：2025年6月7日（土）
 詳細および申込みはこちらからお願いします。</title><link>https://www.otology.gr.jp/</link><description>「第2回Underwater TEES 講習会」のご案内
 開催日時：2025年6月7日（土）
@@ -35,4 +31,6 @@
 詳細および申込みはこちらからお願いします。</title><link>https://www.otology.gr.jp/</link><description>「日本耳科学会認定教育Webinar-confidENT-Season3」のご案内を掲載しました。
 詳細および申込みはこちらからお願いします。</description><guid isPermaLink="false">https://www.otology.gr.jp/meeting/webinar.php#20250818</guid><pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate></item><item><title>「九州TEESハンズオンセミナー」のご案内
 開催日時：2025年9月6日（土）詳細および申込みはこちらからお願いします。</title><link>https://www.otology.gr.jp/</link><description>「九州TEESハンズオンセミナー」のご案内
-開催日時：2025年9月6日（土）詳細および申込みはこちらからお願いします。</description><guid isPermaLink="false">https://www.otology.gr.jp/common/pdf/TEEShandson.pdf#20250819</guid><pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate></item></channel></rss>
+開催日時：2025年9月6日（土）詳細および申込みはこちらからお願いします。</description><guid isPermaLink="false">https://www.otology.gr.jp/common/pdf/TEEShandson.pdf#20250819</guid><pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate></item><item><title>「第4回鼓膜再生療法手術手技研究会」のご案内
+2025年9月13日（土）詳細はこちらからお願いします。申し込みは当日受付となります</title><link>https://www.otology.gr.jp/</link><description>「第4回鼓膜再生療法手術手技研究会」のご案内
+2025年9月13日（土）詳細はこちらからお願いします。申し込みは当日受付となります</description><guid isPermaLink="false">https://www.otology.gr.jp/common/pdf/4th_komakusaisei2025.pdf#20250821</guid><pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate></item></channel></rss>
