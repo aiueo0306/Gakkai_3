@@ -1,11 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>日本薬局学会トピックス</title><link>https://secure.ps-japan.org/information/</link><description>日本薬局学会の最新トピック情報</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 10 Sep 2025 04:14:54 +0000</lastBuildDate><item><title>日本薬局学会の倫理審査の新規受付を再開いたしました。
-	また、倫理審査委員会規程の改訂により、「申請者の資格及び審査料」が下記のように改訂されました。
-	・申請者は、本学会会員であり、かつ、当該申請に係る研究の研究責任者とする。
-	・審査料は 5万円とする。</title><link>https://secure.ps-japan.org/information/</link><description>日本薬局学会の倫理審査の新規受付を再開いたしました。
-	また、倫理審査委員会規程の改訂により、「申請者の資格及び審査料」が下記のように改訂されました。
-	・申請者は、本学会会員であり、かつ、当該申請に係る研究の研究責任者とする。
-	・審査料は 5万円とする。</description><guid isPermaLink="false">https://secure.ps-japan.org/information/#20250610</guid><pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate></item><item><title>2025年8月6日（水）19時30分より「ファーマシーセミナーアドバンス（キッセイ薬品工業株式会社）」をオンラインにて開催いたします。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>日本薬局学会トピックス</title><link>https://secure.ps-japan.org/information/</link><description>日本薬局学会の最新トピック情報</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 10 Sep 2025 05:12:36 +0000</lastBuildDate><item><title>2025年8月6日（水）19時30分より「ファーマシーセミナーアドバンス（キッセイ薬品工業株式会社）」をオンラインにて開催いたします。
 	国立長寿医療研究センター 薬剤部 高齢者薬学教育研修室 室長 溝神 文博 先生より『高齢者の安全な薬物療法ガイドラインのアップデートと薬剤師の使命』についてご講演いただきます。
 	本セミナーは、日本薬剤師研修センターの集合研修1単位として申請予定（PECS上で交付）、参加費は1,100円（税込）です。
 	お申込み期限は2025年8月4日（月）正午までです。
@@ -207,4 +201,14 @@ E-mail: yakkyoku-edit@je.bunken.co.jp</description><guid isPermaLink="false">htt
 	【学科試験】9月28日(日) 10：00～12：00（予定） ※オンラインにて実施
 	【認定受験料】11,000円（税込） ※振込名義を[2025氏名]とし、9月5日(金)までに事前振込をお願いします。
 	認定試験申込をされた方には、メールにて受験票をお送りいたします。
-	接続確認テストのスケジュールも記載しておりますので、必ずメールの内容をご確認ください。</description><guid isPermaLink="false">https://secure.ps-japan.org/dtaps/about.html#20250825</guid><pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate></item></channel></rss>
+	接続確認テストのスケジュールも記載しておりますので、必ずメールの内容をご確認ください。</description><guid isPermaLink="false">https://secure.ps-japan.org/dtaps/about.html#20250825</guid><pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate></item><item><title>2025年11月26日（水）19時30分より「ファーマシーセミナーアドバンス（ロートニッテン株式会社）」をオンラインにて開催いたします。
+	講演Ⅰでは、高知大学医学部眼科学講座　准教授　福田 憲先生より『眼アレルギー治療と点眼薬について』をご講演いただきます。
+	講演Ⅱでは、東邦大学医学部眼科学講座　教授 堀 裕一 先生より『薬剤の眼表面に対する影響　～点眼毒性角膜症・抗がん剤による角膜障害について～』をご講演いただきます。
+	本セミナーは、日本薬剤師研修センターの集合研修1単位として申請予定（PECS上で交付）、参加費は1,100円（税込）です。
+	お申込み期限は2025年11月21日（金）正午までです。
+	多くの皆様のご参加をお待ちしております。</title><link>https://secure.ps-japan.org/information/</link><description>2025年11月26日（水）19時30分より「ファーマシーセミナーアドバンス（ロートニッテン株式会社）」をオンラインにて開催いたします。
+	講演Ⅰでは、高知大学医学部眼科学講座　准教授　福田 憲先生より『眼アレルギー治療と点眼薬について』をご講演いただきます。
+	講演Ⅱでは、東邦大学医学部眼科学講座　教授 堀 裕一 先生より『薬剤の眼表面に対する影響　～点眼毒性角膜症・抗がん剤による角膜障害について～』をご講演いただきます。
+	本セミナーは、日本薬剤師研修センターの集合研修1単位として申請予定（PECS上で交付）、参加費は1,100円（税込）です。
+	お申込み期限は2025年11月21日（金）正午までです。
+	多くの皆様のご参加をお待ちしております。</description><guid isPermaLink="false">https://secure.ps-japan.org/seminar/#20250910</guid><pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate></item></channel></rss>
