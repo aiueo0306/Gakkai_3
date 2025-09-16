@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>日本耳科学会トピックス</title><link>https://www.otology.gr.jp/</link><description>日本耳科学会の最新トピック情報</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 16 Sep 2025 02:16:59 +0000</lastBuildDate><item><title>「第5回耳管ピン手術実施医認定講習会」のご案内
-開催日時：2025年11月1日（土）（予定）
-詳細および申込みはこちらからお願いします。</title><link>https://www.otology.gr.jp/</link><description>「第5回耳管ピン手術実施医認定講習会」のご案内
-開催日時：2025年11月1日（土）（予定）
-詳細および申込みはこちらからお願いします。</description><guid isPermaLink="false">https://www.otology.gr.jp/member/specialist/jikanpin.php#20250423</guid><pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate></item><item><title>「第5回「側頭骨Cadaver Dissection・人工内耳実習」のご案内
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>日本耳科学会トピックス</title><link>https://www.otology.gr.jp/</link><description>日本耳科学会の最新トピック情報</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 16 Sep 2025 03:24:07 +0000</lastBuildDate><item><title>「第5回「側頭骨Cadaver Dissection・人工内耳実習」のご案内
 開催日時：2025年6⽉7⽇（⼟）
 詳細および申込みはこちらからお願いします。</title><link>https://www.otology.gr.jp/</link><description>「第5回「側頭骨Cadaver Dissection・人工内耳実習」のご案内
 開催日時：2025年6⽉7⽇（⼟）
@@ -33,4 +29,6 @@
 耳科学会会員専用ページのログインにはID（会員番号）とパスワードが必要となります。
 また、動画視聴の際、新たに氏名と会員番号、メールアドレスの入力が必要です。</title><link>https://www.otology.gr.jp/</link><description>会員専用ページの学術講演会・耳科学教育動画ライブラリを更新いたしました。
 耳科学会会員専用ページのログインにはID（会員番号）とパスワードが必要となります。
-また、動画視聴の際、新たに氏名と会員番号、メールアドレスの入力が必要です。</description><guid isPermaLink="false">https://www.otology.gr.jp/member/movie/index.php#20250828</guid><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate></item></channel></rss>
+また、動画視聴の際、新たに氏名と会員番号、メールアドレスの入力が必要です。</description><guid isPermaLink="false">https://www.otology.gr.jp/member/movie/index.php#20250828</guid><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate></item><item><title>「第3回 Underwater TEES 講習会」のご案内
+開催日時：2025年11月15日～16日詳細はこちらからお願いします。</title><link>https://www.otology.gr.jp/</link><description>「第3回 Underwater TEES 講習会」のご案内
+開催日時：2025年11月15日～16日詳細はこちらからお願いします。</description><guid isPermaLink="false">https://www.otology.gr.jp/common/pdf/UnderwaterTEES3rd.pdf#20250916</guid><pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate></item></channel></rss>
