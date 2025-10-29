@@ -1,5 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 29 Oct 2025 09:15:01 +0000</lastBuildDate><item><title>【日本大腸肛門病学会】【2025-10-29】【日本ストーマ・排泄リハビリテーション学会】アンケートのお願い</title><link>https://www.coloproctology.gr.jp/modules/news/index.php?content_id=427</link><description>【日本ストーマ・排泄リハビリテーション学会】アンケートのお願い</description><guid isPermaLink="false">https://www.coloproctology.gr.jp/modules/news/index.php?content_id=427#20251029</guid><pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【日本大腸肛門病学会】【2025-10-28】【専門医制度委員会】各認定証送付のお知らせ</title><link>https://www.coloproctology.gr.jp/modules/news/index.php?content_id=426</link><description>【専門医制度委員会】各認定証送付のお知らせ</description><guid isPermaLink="false">https://www.coloproctology.gr.jp/modules/news/index.php?content_id=426#20251028</guid><pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【日本ウィルス学会】遺伝子組換え技術等専門委員会の開催日程（令和7年度下半期）について</title><link>https://jsv.umin.jp/news/news250920.html</link><description>遺伝子組換え技術等専門委員会の開催日程（令和7年度下半期）について</description><guid isPermaLink="false">https://jsv.umin.jp/news/news250920.html</guid></item><item><title>【日本ウィルス学会】第4回病原体取扱施設関係者リスク評価トレーニングコースのご案内</title><link>https://jbsa-gakkai.jp/event/4-risk-assessment-training-course/</link><description>第4回病原体取扱施設関係者リスク評価トレーニングコースのご案内</description><guid isPermaLink="false">https://jbsa-gakkai.jp/event/4-risk-assessment-training-course/</guid></item><item><title>【日本ウィルス学会】第24回日本バイオセーフティ学会総会・学術集会のご案内</title><link>https://jbsa-gakkai.jp/annual-conference-and-symposium/annual-conference-2025/</link><description>第24回日本バイオセーフティ学会総会・学術集会のご案内</description><guid isPermaLink="false">https://jbsa-gakkai.jp/annual-conference-and-symposium/annual-conference-2025/</guid></item><item><title>【日本ウィルス学会】市民公開講座「AIの進歩と生命科学研究を考える」のご案内</title><link>https://jbsa-gakkai.jp/event/public-lecture-20251128/</link><description>市民公開講座「AIの進歩と生命科学研究を考える」のご案内</description><guid isPermaLink="false">https://jbsa-gakkai.jp/event/public-lecture-20251128/</guid></item><item><title>【日本薬局学会】【2025-10-29】【第19回日本薬局学会学術総会について】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 29 Oct 2025 10:15:57 +0000</lastBuildDate><item><title>【日本大腸肛門病学会】【2025-10-29】【日本ストーマ・排泄リハビリテーション学会】アンケートのお願い</title><link>https://www.coloproctology.gr.jp/modules/news/index.php?content_id=427</link><description>【日本ストーマ・排泄リハビリテーション学会】アンケートのお願い</description><guid isPermaLink="false">https://www.coloproctology.gr.jp/modules/news/index.php?content_id=427#20251029</guid><pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【日本大腸肛門病学会】【2025-10-28】【専門医制度委員会】各認定証送付のお知らせ</title><link>https://www.coloproctology.gr.jp/modules/news/index.php?content_id=426</link><description>【専門医制度委員会】各認定証送付のお知らせ</description><guid isPermaLink="false">https://www.coloproctology.gr.jp/modules/news/index.php?content_id=426#20251028</guid><pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【日本ウィルス学会】遺伝子組換え技術等専門委員会の開催日程（令和7年度下半期）について</title><link>https://jsv.umin.jp/news/news250920.html</link><description>遺伝子組換え技術等専門委員会の開催日程（令和7年度下半期）について</description><guid isPermaLink="false">https://jsv.umin.jp/news/news250920.html</guid></item><item><title>【日本ウィルス学会】第4回病原体取扱施設関係者リスク評価トレーニングコースのご案内</title><link>https://jbsa-gakkai.jp/event/4-risk-assessment-training-course/</link><description>第4回病原体取扱施設関係者リスク評価トレーニングコースのご案内</description><guid isPermaLink="false">https://jbsa-gakkai.jp/event/4-risk-assessment-training-course/</guid></item><item><title>【日本ウィルス学会】第24回日本バイオセーフティ学会総会・学術集会のご案内</title><link>https://jbsa-gakkai.jp/annual-conference-and-symposium/annual-conference-2025/</link><description>第24回日本バイオセーフティ学会総会・学術集会のご案内</description><guid isPermaLink="false">https://jbsa-gakkai.jp/annual-conference-and-symposium/annual-conference-2025/</guid></item><item><title>【日本ウィルス学会】市民公開講座「AIの進歩と生命科学研究を考える」のご案内</title><link>https://jbsa-gakkai.jp/event/public-lecture-20251128/</link><description>市民公開講座「AIの進歩と生命科学研究を考える」のご案内</description><guid isPermaLink="false">https://jbsa-gakkai.jp/event/public-lecture-20251128/</guid></item><item><title>【日本薬局学会】【2025-10-29】この度「薬局薬学」の下記採択論文がオンライン早期公開されましたので、ご案内いたします。
+
+	Original article
+	Comparative Evaluation of Physicochemical Properties and Patient-Oriented
+	Perspectives between Brand-Name and Generic Heparinoid Ointments
+	Atsushi Ishimura　　Shiori Obuchi　　Yutaka Shimizu
+	Kaori Hashimoto　　Naohiro Yabuki　　Motoki Inoue
+	https://doi.org/10.32160/yakkyoku.oa.2025-0017
+
+	ぜひ、引き続き「薬局薬学」をご活用いただけますようお願い申し上げます。
+	https://www.jstage.jst.go.jp/browse/yakkyoku/list/-char/ja
+
+	薬局薬学投稿規定
+	https://secure.ps-japan.org/journal/lucubration.html
+
+	会員のみなさまのご投稿をお待ちしております。
+	　　　　　　　　　　　　　　　　　　「薬局薬学」編集委員会
+
+	お問い合わせ：薬局薬学編集室
+	〒162-0801 東京都新宿区山吹町332-6　株式会社国際文献社
+	TEL（編集室直通） ：070-4753-8470　／　TEL（編集部門代表）：03-6824-9399　／　FAX：03-5206-5331
+	E-mail: yakkyoku-edit@je.bunken.co.jp</title><link>https://doi.org/10.32160/yakkyoku.oa.2025-0017</link><description>この度「薬局薬学」の下記採択論文がオンライン早期公開されましたので、ご案内いたします。
+
+	Original article
+	Comparative Evaluation of Physicochemical Properties and Patient-Oriented
+	Perspectives between Brand-Name and Generic Heparinoid Ointments
+	Atsushi Ishimura　　Shiori Obuchi　　Yutaka Shimizu
+	Kaori Hashimoto　　Naohiro Yabuki　　Motoki Inoue
+	https://doi.org/10.32160/yakkyoku.oa.2025-0017
+
+	ぜひ、引き続き「薬局薬学」をご活用いただけますようお願い申し上げます。
+	https://www.jstage.jst.go.jp/browse/yakkyoku/list/-char/ja
+
+	薬局薬学投稿規定
+	https://secure.ps-japan.org/journal/lucubration.html
+
+	会員のみなさまのご投稿をお待ちしております。
+	　　　　　　　　　　　　　　　　　　「薬局薬学」編集委員会
+
+	お問い合わせ：薬局薬学編集室
+	〒162-0801 東京都新宿区山吹町332-6　株式会社国際文献社
+	TEL（編集室直通） ：070-4753-8470　／　TEL（編集部門代表）：03-6824-9399　／　FAX：03-5206-5331
+	E-mail: yakkyoku-edit@je.bunken.co.jp</description><guid isPermaLink="false">https://doi.org/10.32160/yakkyoku.oa.2025-0017#20251029</guid><pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate></item><item><title>【日本薬局学会】【2025-10-29】【第19回日本薬局学会学術総会について】
 	第19回日本薬局学会学術総会の要旨集アプリが公開されましたのでご案内いたします。
 	１）「Web要旨集プログラム」につきましては以下より閲覧できます。
 	　　　https://pub.confit.atlas.jp/ja/event/psj19
