@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 06 Nov 2025 05:14:56 +0000</lastBuildDate><item><title>【日本ウィルス学会】遺伝子組換え技術等専門委員会の開催日程（令和7年度下半期）について</title><link>https://jsv.umin.jp/news/news250920.html</link><description>遺伝子組換え技術等専門委員会の開催日程（令和7年度下半期）について</description><guid isPermaLink="false">https://jsv.umin.jp/news/news250920.html</guid></item><item><title>【日本ウィルス学会】第4回病原体取扱施設関係者リスク評価トレーニングコースのご案内</title><link>https://jbsa-gakkai.jp/event/4-risk-assessment-training-course/</link><description>第4回病原体取扱施設関係者リスク評価トレーニングコースのご案内</description><guid isPermaLink="false">https://jbsa-gakkai.jp/event/4-risk-assessment-training-course/</guid></item><item><title>【日本ウィルス学会】第24回日本バイオセーフティ学会総会・学術集会のご案内</title><link>https://jbsa-gakkai.jp/annual-conference-and-symposium/annual-conference-2025/</link><description>第24回日本バイオセーフティ学会総会・学術集会のご案内</description><guid isPermaLink="false">https://jbsa-gakkai.jp/annual-conference-and-symposium/annual-conference-2025/</guid></item><item><title>【日本ウィルス学会】市民公開講座「AIの進歩と生命科学研究を考える」のご案内</title><link>https://jbsa-gakkai.jp/event/public-lecture-20251128/</link><description>市民公開講座「AIの進歩と生命科学研究を考える」のご案内</description><guid isPermaLink="false">https://jbsa-gakkai.jp/event/public-lecture-20251128/</guid></item><item><title>【日本リウマチ学会】【2025-11-06】厚生労働科学研究研究班からのお知らせ：講演会やイベントのご紹介</title><link>https://www.ryumachi-jp.com/information/etc/event20251207/</link><description>厚生労働科学研究研究班からのお知らせ：講演会やイベントのご紹介</description><guid isPermaLink="false">https://www.ryumachi-jp.com/information/etc/event20251207/#20251106</guid><pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate></item><item><title>【日本リウマチ学会】【2025-11-04】新型コロナウイルス（COVID-19）・ワクチンについて（医師向け情報）</title><link>https://www.ryumachi-jp.com/information/medical/covid-19_251104/</link><description>新型コロナウイルス（COVID-19）・ワクチンについて（医師向け情報）</description><guid isPermaLink="false">https://www.ryumachi-jp.com/information/medical/covid-19_251104/#20251104</guid><pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate></item><item><title>【日本リウマチ学会】【2025-11-04】新型コロナウイルス（COVID-19）と新型コロナワクチンについて（患者さん向け情報）</title><link>https://www.ryumachi-jp.com/information/medical/covid-19_2_251104/</link><description>新型コロナウイルス（COVID-19）と新型コロナワクチンについて（患者さん向け情報）</description><guid isPermaLink="false">https://www.ryumachi-jp.com/information/medical/covid-19_2_251104/#20251104</guid><pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate></item><item><title>【日本薬局学会】【2025-11-05】【認知症研修認定薬剤師制度　2025・2026年度ワークショップ・症例報告書き方セミナーについてのお知らせ】
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 06 Nov 2025 06:20:57 +0000</lastBuildDate><item><title>【日本ウィルス学会】遺伝子組換え技術等専門委員会の開催日程（令和7年度下半期）について</title><link>https://jsv.umin.jp/news/news250920.html</link><description>遺伝子組換え技術等専門委員会の開催日程（令和7年度下半期）について</description><guid isPermaLink="false">https://jsv.umin.jp/news/news250920.html</guid></item><item><title>【日本ウィルス学会】第4回病原体取扱施設関係者リスク評価トレーニングコースのご案内</title><link>https://jbsa-gakkai.jp/event/4-risk-assessment-training-course/</link><description>第4回病原体取扱施設関係者リスク評価トレーニングコースのご案内</description><guid isPermaLink="false">https://jbsa-gakkai.jp/event/4-risk-assessment-training-course/</guid></item><item><title>【日本ウィルス学会】第24回日本バイオセーフティ学会総会・学術集会のご案内</title><link>https://jbsa-gakkai.jp/annual-conference-and-symposium/annual-conference-2025/</link><description>第24回日本バイオセーフティ学会総会・学術集会のご案内</description><guid isPermaLink="false">https://jbsa-gakkai.jp/annual-conference-and-symposium/annual-conference-2025/</guid></item><item><title>【日本ウィルス学会】市民公開講座「AIの進歩と生命科学研究を考える」のご案内</title><link>https://jbsa-gakkai.jp/event/public-lecture-20251128/</link><description>市民公開講座「AIの進歩と生命科学研究を考える」のご案内</description><guid isPermaLink="false">https://jbsa-gakkai.jp/event/public-lecture-20251128/</guid></item><item><title>【日本リウマチ学会】【2025-11-06】厚生労働科学研究研究班からのお知らせ：講演会やイベントのご紹介</title><link>https://www.ryumachi-jp.com/information/etc/event20251207/</link><description>厚生労働科学研究研究班からのお知らせ：講演会やイベントのご紹介</description><guid isPermaLink="false">https://www.ryumachi-jp.com/information/etc/event20251207/#20251106</guid><pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate></item><item><title>【日本リウマチ学会】【2025-11-04】新型コロナウイルス（COVID-19）・ワクチンについて（医師向け情報）</title><link>https://www.ryumachi-jp.com/information/medical/covid-19_251104/</link><description>新型コロナウイルス（COVID-19）・ワクチンについて（医師向け情報）</description><guid isPermaLink="false">https://www.ryumachi-jp.com/information/medical/covid-19_251104/#20251104</guid><pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate></item><item><title>【日本リウマチ学会】【2025-11-04】新型コロナウイルス（COVID-19）と新型コロナワクチンについて（患者さん向け情報）</title><link>https://www.ryumachi-jp.com/information/medical/covid-19_2_251104/</link><description>新型コロナウイルス（COVID-19）と新型コロナワクチンについて（患者さん向け情報）</description><guid isPermaLink="false">https://www.ryumachi-jp.com/information/medical/covid-19_2_251104/#20251104</guid><pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate></item><item><title>【日本薬局学会】【2025-11-06】この度「薬局薬学」の下記採択論文がオンライン早期公開されましたので、ご案内いたします。
+
+	原著
+	在宅経管栄養患者の内服薬投与の実態に関するアンケート調査
+	（ケアマネジャー・訪問看護師を介した聞き取り調査）
+	面谷 幸子　　龍野 祥一　　岩浪 亮人　　中原 麻佑　　名德 倫明
+	https://doi.org/10.32160/yakkyoku.oa.2025-0011
+
+	ぜひ、引き続き「薬局薬学」をご活用いただけますようお願い申し上げます。
+	https://www.jstage.jst.go.jp/browse/yakkyoku/list/-char/ja
+
+	薬局薬学投稿規定
+	https://secure.ps-japan.org/journal/lucubration.html
+
+	会員のみなさまのご投稿をお待ちしております。
+	　　　　　　　　　　　　　　　　　　「薬局薬学」編集委員会
+
+	お問い合わせ：薬局薬学編集室
+	〒162-0801 東京都新宿区山吹町332-6　株式会社国際文献社
+	TEL（編集室直通） ：070-4753-8470　／　TEL（編集部門代表）：03-6824-9399　／　FAX：03-5206-5331
+	E-mail: yakkyoku-edit@je.bunken.co.jp</title><link>https://doi.org/10.32160/yakkyoku.oa.2025-0011</link><description>この度「薬局薬学」の下記採択論文がオンライン早期公開されましたので、ご案内いたします。
+
+	原著
+	在宅経管栄養患者の内服薬投与の実態に関するアンケート調査
+	（ケアマネジャー・訪問看護師を介した聞き取り調査）
+	面谷 幸子　　龍野 祥一　　岩浪 亮人　　中原 麻佑　　名德 倫明
+	https://doi.org/10.32160/yakkyoku.oa.2025-0011
+
+	ぜひ、引き続き「薬局薬学」をご活用いただけますようお願い申し上げます。
+	https://www.jstage.jst.go.jp/browse/yakkyoku/list/-char/ja
+
+	薬局薬学投稿規定
+	https://secure.ps-japan.org/journal/lucubration.html
+
+	会員のみなさまのご投稿をお待ちしております。
+	　　　　　　　　　　　　　　　　　　「薬局薬学」編集委員会
+
+	お問い合わせ：薬局薬学編集室
+	〒162-0801 東京都新宿区山吹町332-6　株式会社国際文献社
+	TEL（編集室直通） ：070-4753-8470　／　TEL（編集部門代表）：03-6824-9399　／　FAX：03-5206-5331
+	E-mail: yakkyoku-edit@je.bunken.co.jp</description><guid isPermaLink="false">https://doi.org/10.32160/yakkyoku.oa.2025-0011#20251106</guid><pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate></item><item><title>【日本薬局学会】【2025-11-05】【認知症研修認定薬剤師制度　2025・2026年度ワークショップ・症例報告書き方セミナーについてのお知らせ】
 	認知症研修認定薬剤師制度では、ワークショップ基礎編を12月7日（日）、症例報告書き方セミナーを2026年1月25日（日）、ワークショップ応用編を2026年2月15日（日）に開催します。
 	2026年度の認定試験（面接試験会場：グランキューブ大阪）を受験予定の方でご受講がまだの方は、上記にご案内したワークショップおよび症例報告書き方セミナーをご受講ください。
 	※2026年4月～6月にワークショップ基礎編・応用編、症例報告書き方セミナーは実施いたしません。次回は2026年12月から開始する予定です。</title><link>https://secure.ps-japan.org/dtaps/schedule.html</link><description>【認知症研修認定薬剤師制度　2025・2026年度ワークショップ・症例報告書き方セミナーについてのお知らせ】
