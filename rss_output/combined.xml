@@ -1,60 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 02 Mar 2026 23:21:10 +0000</lastBuildDate><item><title>【日本小児アレルギー学会】【2026-02-27】【重要】オンラインジャーナル（J-STAGE）閲覧パスワード更新のお知らせNEW</title><link>https://www.jspaci.jp/news/member/20260227-6074/</link><description>【重要】オンラインジャーナル（J-STAGE）閲覧パスワード更新のお知らせNEW</description><guid isPermaLink="false">https://www.jspaci.jp/news/member/20260227-6074/#20260227</guid><pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本薬局学会】【2026-02-27】この度「薬局薬学」の下記の論文がオンライン早期公開されましたので、ご案内いたします。
-
-	症例・事例報告
-	心不全患者のトリプルワーミー回避に関する歯薬連携の新規モデル構築の契機となった1例
-	前瀬 鞠　　近藤 慎吾　　林 直子　　岩田 紘樹　　小林 典子　　岡本 侑子　　榎木 裕紀　漆畑 俊哉　　山浦 克典
-	https://doi.org/10.32160/yakkyoku.cr.2025-0027
-	
-
-	ぜひ、引き続き「薬局薬学」をご活用いただけますようお願い申し上げます。
-	https://www.jstage.jst.go.jp/browse/yakkyoku/list/-char/ja
-
-	薬局薬学投稿規定
-	https://secure.ps-japan.org/journal/lucubration.html
-
-	会員のみなさまのご投稿をお待ちしております。
-	　　　　　　　　　　　　　　　　　　「薬局薬学」編集委員会
-
-	お問い合わせ：薬局薬学編集室
-	〒162-0801 東京都新宿区山吹町332-6　株式会社国際文献社
-	TEL（編集室直通） ：070-4753-8470　／　TEL（編集部門代表）：03-6824-9399　／　FAX：03-5206-5331
-	E-mail: yakkyoku-edit@je.bunken.co.jp</title><link>https://doi.org/10.32160/yakkyoku.cr.2025-0027</link><description>この度「薬局薬学」の下記の論文がオンライン早期公開されましたので、ご案内いたします。
-
-	症例・事例報告
-	心不全患者のトリプルワーミー回避に関する歯薬連携の新規モデル構築の契機となった1例
-	前瀬 鞠　　近藤 慎吾　　林 直子　　岩田 紘樹　　小林 典子　　岡本 侑子　　榎木 裕紀　漆畑 俊哉　　山浦 克典
-	https://doi.org/10.32160/yakkyoku.cr.2025-0027
-	
-
-	ぜひ、引き続き「薬局薬学」をご活用いただけますようお願い申し上げます。
-	https://www.jstage.jst.go.jp/browse/yakkyoku/list/-char/ja
-
-	薬局薬学投稿規定
-	https://secure.ps-japan.org/journal/lucubration.html
-
-	会員のみなさまのご投稿をお待ちしております。
-	　　　　　　　　　　　　　　　　　　「薬局薬学」編集委員会
-
-	お問い合わせ：薬局薬学編集室
-	〒162-0801 東京都新宿区山吹町332-6　株式会社国際文献社
-	TEL（編集室直通） ：070-4753-8470　／　TEL（編集部門代表）：03-6824-9399　／　FAX：03-5206-5331
-	E-mail: yakkyoku-edit@je.bunken.co.jp</description><guid isPermaLink="false">https://doi.org/10.32160/yakkyoku.cr.2025-0027#20260227</guid><pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本薬局学会】【2026-02-27】【大事なお知らせ】
-	2026年4月1日に倫理審査委員会規程を改定します。2026年4月1日以降の審査料は以下の通り変更となります。
-	・審査料は 6万円とする。</title><link>https://secure.ps-japan.org/information/</link><description>【大事なお知らせ】
-	2026年4月1日に倫理審査委員会規程を改定します。2026年4月1日以降の審査料は以下の通り変更となります。
-	・審査料は 6万円とする。</description><guid isPermaLink="false">urn:newsitem:fb5dd5c932537b1f98edd44775692dbb57bf9953</guid><pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本耳科学会】【重要】⼈⼯聴覚器教育動画シリーズ「⼈⼯聴覚器の基礎から応⽤まで、体系的に学べる教育コンテンツ」Implantastic　[一般公開版]と[会員公開版]を公開しました
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 03 Mar 2026 01:22:46 +0000</lastBuildDate><item><title>【日本耳科学会】【重要】⼈⼯聴覚器教育動画シリーズ「⼈⼯聴覚器の基礎から応⽤まで、体系的に学べる教育コンテンツ」Implantastic　[一般公開版]と[会員公開版]を公開しました
 [一般公開版]はこちら
 [会員公開版]はこちら</title><link>https://www.otology.gr.jp/implantastic/index.php</link><description>【重要】⼈⼯聴覚器教育動画シリーズ「⼈⼯聴覚器の基礎から応⽤まで、体系的に学べる教育コンテンツ」Implantastic　[一般公開版]と[会員公開版]を公開しました
 [一般公開版]はこちら
-[会員公開版]はこちら</description><guid isPermaLink="false">https://www.otology.gr.jp/implantastic/index.php</guid></item><item><title>【日本肺癌学会】【2026-02-27】2026年02月27日
-            
-                            委員会より
-                                
-    
-    学会誌「肺癌」66巻1号（最新号）発刊のご案内</title><link>https://www.haigan.gr.jp/news/9185/</link><description>2026年02月27日
-            
-                            委員会より
-                                
-    
-    学会誌「肺癌」66巻1号（最新号）発刊のご案内</description><guid isPermaLink="false">https://www.haigan.gr.jp/news/9185/#20260227</guid><pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【日本ウィルス学会】徳島大学教員（大学院医歯薬学研究部助教（微生物病原学分野））の公募</title><link>https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126010226</link><description>徳島大学教員（大学院医歯薬学研究部助教（微生物病原学分野））の公募</description><guid isPermaLink="false">https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126010226</guid></item><item><title>【日本アレルギー学会】【2026-03-01】第7回日本アレルギー学会東海地方会　プログラム抄録集公開のお知らせ</title><link>https://www.jsaweb.jp/modules/news_topics/index.php?content_id=1051</link><description>第7回日本アレルギー学会東海地方会　プログラム抄録集公開のお知らせ</description><guid isPermaLink="false">https://www.jsaweb.jp/modules/news_topics/index.php?content_id=1051#20260301</guid><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate></item><item><title>【日本アレルギー学会】【2026-03-01】2025年度臨床研究支援プログラムのご案内</title><link>https://www.jsaweb.jp/modules/news_topics/index.php?content_id=1052</link><description>2025年度臨床研究支援プログラムのご案内</description><guid isPermaLink="false">https://www.jsaweb.jp/modules/news_topics/index.php?content_id=1052#20260301</guid><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate></item></channel></rss>
+[会員公開版]はこちら</description><guid isPermaLink="false">https://www.otology.gr.jp/implantastic/index.php</guid></item><item><title>【日本ウィルス学会】徳島大学教員（大学院医歯薬学研究部助教（微生物病原学分野））の公募</title><link>https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126010226</link><description>徳島大学教員（大学院医歯薬学研究部助教（微生物病原学分野））の公募</description><guid isPermaLink="false">https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126010226</guid></item><item><title>【日本アレルギー学会】【2026-03-01】第7回日本アレルギー学会東海地方会　プログラム抄録集公開のお知らせ</title><link>https://www.jsaweb.jp/modules/news_topics/index.php?content_id=1051</link><description>第7回日本アレルギー学会東海地方会　プログラム抄録集公開のお知らせ</description><guid isPermaLink="false">https://www.jsaweb.jp/modules/news_topics/index.php?content_id=1051#20260301</guid><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate></item><item><title>【日本アレルギー学会】【2026-03-01】2025年度臨床研究支援プログラムのご案内</title><link>https://www.jsaweb.jp/modules/news_topics/index.php?content_id=1052</link><description>2025年度臨床研究支援プログラムのご案内</description><guid isPermaLink="false">https://www.jsaweb.jp/modules/news_topics/index.php?content_id=1052#20260301</guid><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate></item></channel></rss>
