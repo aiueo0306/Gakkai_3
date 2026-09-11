@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 11 Sep 2026 00:49:34 +0000</lastBuildDate><item><title>【日本臨床栄養学会】【2026-09-02】2026年9月2日
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>学会RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 11 Sep 2026 05:34:21 +0000</lastBuildDate><item><title>【日本薬局学会】【2026-09-11】【第20回日本薬局学会学術総会　認知症研修認定薬剤師制度　特別セミナーのお知らせ】
+	2026年10月18日（日）に、第20回日本薬局学会学術総会にて日本薬局学会　認知症研修認定薬剤師制度 特別セミナーを開催します。
+	特別セミナーのテーマは「「生活・服薬ご様子確認票」 を用いた認知機能低下に対する薬剤師の役割」です。
+	このたび、「生活・服薬ご様子確認票」の運用方法の説明会および参加者同士で、服薬指導時の相談から新しいアイディア、認知症に関しては何でも学べるワークショップを企画しました。薬剤師が発信する「生活・服薬ご様子確認票」を学びながら認知症に対する苦手意識を乗り越えるきっかけになると思います。
+	是非とも多くの皆様にご参加いただきたく、事前にワークショップ参加者を募集いたします。当日の御参加も可能ではございますが、ワークショップについては上限人数の50名に達し次第、受付を終了させていただきます。
+	【詳細】 [PDF]
+	【申込用URL】https://forms.gle/6i9Js65he7iN3Lrx8
+	【申込締切】2026年10月6日（火）
+	多くの皆様のご参加をお待ちしております。</title><link>https://secure.ps-japan.org/dtaps/files/info20261018.pdf</link><description>【第20回日本薬局学会学術総会　認知症研修認定薬剤師制度　特別セミナーのお知らせ】
+	2026年10月18日（日）に、第20回日本薬局学会学術総会にて日本薬局学会　認知症研修認定薬剤師制度 特別セミナーを開催します。
+	特別セミナーのテーマは「「生活・服薬ご様子確認票」 を用いた認知機能低下に対する薬剤師の役割」です。
+	このたび、「生活・服薬ご様子確認票」の運用方法の説明会および参加者同士で、服薬指導時の相談から新しいアイディア、認知症に関しては何でも学べるワークショップを企画しました。薬剤師が発信する「生活・服薬ご様子確認票」を学びながら認知症に対する苦手意識を乗り越えるきっかけになると思います。
+	是非とも多くの皆様にご参加いただきたく、事前にワークショップ参加者を募集いたします。当日の御参加も可能ではございますが、ワークショップについては上限人数の50名に達し次第、受付を終了させていただきます。
+	【詳細】 [PDF]
+	【申込用URL】https://forms.gle/6i9Js65he7iN3Lrx8
+	【申込締切】2026年10月6日（火）
+	多くの皆様のご参加をお待ちしております。</description><guid isPermaLink="false">https://secure.ps-japan.org/dtaps/files/info20261018.pdf#20260911</guid><pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate></item><item><title>【日本臨床栄養学会】【2026-09-02】2026年9月2日
 
 
 「がんのリハビリテーション・リンパ浮腫診療研究会」のご案内です。
